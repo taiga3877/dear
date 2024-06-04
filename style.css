@@ -1,0 +1,41 @@
+
+.sorry{
+    background-color: bisque;
+    width: 1000px;
+    display: flex;
+    height: 300px;
+    margin: 0 auto;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: end;
+}
+
+
+
+.sorry1{
+    background-color: black;
+    justify-content: space-between;
+    width: 260px;
+    height: 130px;
+}
+
+
+
+
+.lol1{
+    background-color: bisque;
+    width: 1000px;
+    display: flex;
+    height: 300px;
+    margin: 0 auto;
+   
+    padding: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.lol{
+    background-color: black;
+    width: 260px;
+    height: 130px;
+}
